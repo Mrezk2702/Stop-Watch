@@ -1,5 +1,7 @@
 ### Stop-Watch
 Implementation of a stopwatch project using AVR Atmega32 and push buttons and Character LCD
+the software is implemented using layered architecture 
+
 the peripherals used:
 - GPIO
 - Timer
