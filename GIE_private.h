@@ -1,0 +1,1 @@
+#define SREG *((u8*) 0x5f)
